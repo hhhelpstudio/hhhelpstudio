@@ -73,7 +73,7 @@ Collect places by mood, drop them onto a day, hit "optimize," and get a realisti
 <summary><b>Website Score Tool</b>: a free AI website audit that emails you a full report</summary>
 <br>
 
-Pick your industry, answer a few questions (some generated on the fly by Gemini), and get a score, tailored recommendations and a report in your inbox. Built with a model fallback so it keeps working when the primary model doesn't, and logs every submission to Google Sheets.
+Pick your industry, answer a few questions, the smart AI questionnaire will give you specific questions for you, and get a score, tailored recommendations and a report in your inbox. Built with a model fallback so it keeps working when the primary model doesn't, and logs every submission to my personal database.
 
 **Stack:** PHP, JavaScript, Gemini API · [Try it →](https://hhhelpstudio.com/website-score/)
 
@@ -83,7 +83,7 @@ Pick your industry, answer a few questions (some generated on the fly by Gemini)
 <summary><b>Crypto signal bot</b>: a Python bot that grades its own trades <i>(private)</i></summary>
 <br>
 
-Reads live Bybit market data, routes it through a regime detector into multiple strategies, logs every signal, and scores its win rate and expectancy against a verified baseline. Sends a weekly briefing on Telegram.
+Reads live Bybit market data, routes it through a regime detector into multiple strategies, logs every signal, and scores its win rate and expectancy against a verified baseline. Sends a weekly briefing on my Telegram.
 
 **Stack:** Python, Bybit API, Telegram Bot API · Happy to demo it in an interview.
 
@@ -93,7 +93,7 @@ Reads live Bybit market data, routes it through a regime detector into multiple 
 <summary><b>Membership funnels</b>: pricing architecture and checkout flows that convert</summary>
 <br>
 
-Tiered membership structures, conversion-led landing pages with pricing toggles, and multi-tier Stripe checkout flows, built in GoHighLevel with custom code where the platform falls short.
+Tiered membership structures, conversion-led landing pages with pricing toggles, and multi-tier Stripe checkout flows, built in GoHighLevel with custom code where the platform falls short; also made several others in different CMS and client-owned platform.
 
 </details>
 
@@ -108,8 +108,7 @@ Tiered membership structures, conversion-led landing pages with pricing toggles,
 | [Nebula Entrepreneur Space](https://nebula.training/) | Co-working space | 3 weeks |
 | [Adon Capital](https://adoncapital.com/) | Private equity firm | 3 weeks |
 | [Techxcellent](https://techxcellent.co.uk/) | London IT services, web and SEO | 3 weeks |
-| [Peoties](https://peoties.com/) | Wellness community platform | Ongoing |
-| [Niskala Tours](https://niskala.co/) | Bali tour operator | - |
+| [Peoties Wholesome Wave](https://peoties.com/) | Wellness community platform | Ongoing |
 
 Full case studies at [hhhelpstudio.com](https://hhhelpstudio.com).
 
@@ -124,7 +123,7 @@ Full case studies at [hhhelpstudio.com](https://hhhelpstudio.com).
 <summary>Off the clock</summary>
 <br>
 
-Charting markets I probably shouldn't be charting, playing old games on emulators, catching up on anime, and arranging my desk for good feng shui. Bali-based, Opi-supervised.
+Charting markets I probably shouldn't be charting, playing games, reading books and mangas, and arranging my desk for good feng shui. Bali-based, Opi-supervised.
 
 </details>
 
