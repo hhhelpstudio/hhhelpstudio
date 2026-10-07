@@ -42,6 +42,20 @@ Elementor, Bricks, ACF, custom WordPress plugins, Wix/Velo, GoHighLevel, Stripe,
 <sub>Click any project to expand.</sub>
 
 <details open>
+<summary><b>Kelana</b>: a travel passport that lives in your wallet <i>(Web3)</i></summary>
+<br>
+
+A concept loyalty program for slow travel in Bali. Connect any wallet, check in at a stay by signing a message, and collect rubber-stamp visas toward free nights. No gas, no tokens.
+
+- EIP-712 typed-data check-ins, verified before stamping (local signer recovery first, ERC-1271 / ERC-6492 fallback for smart wallets)
+- EIP-6963 wallet discovery with a custom picker on the native Popover API, no modal library
+- Hydration-safe wallet state, per-address stamp storage synced across tabs
+
+**Stack:** Next.js 16, TypeScript, Tailwind v4, wagmi, viem · [Live demo →](https://kelana-orcin.vercel.app/) · [View repo →](https://github.com/hhhelpstudio/kelana)
+
+</details>
+
+<details>
 <summary><b>ppplaces</b>: a playful trip planner that turns saved places into a walkable day</summary>
 <br>
 
@@ -104,7 +118,7 @@ Full case studies at [hhhelpstudio.com](https://hhhelpstudio.com).
 ### Currently
 
 - Learning **TypeScript**, **Next.js** and Web3 front-end tooling (wagmi, viem)
-- Building a Web3 landing page with wallet connect as my next public project
+- Next up: anchoring Kelana stamps onchain with attestations, so stays co-sign every check-in
 
 <details>
 <summary>Off the clock</summary>
