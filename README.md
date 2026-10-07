@@ -1,18 +1,20 @@
 <h1>Hey, I'm Iman 👋</h1>
 
-**Designer and front-end developer in Bali.** I mock up in whatever tool fits the project, then build it myself, so nothing gets lost between the design and the live site.
+<a href="https://hhhelpstudio.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B949E&vCenter=true&width=620&lines=Designer+%26+front-end+developer+in+Bali;From+mockup+to+live+site%2C+no+handoff;Open+to+remote+design+%26+front-end+roles" alt="Designer and front-end developer in Bali. From mockup to live site, no handoff. Open to remote design and front-end roles." />
+</a>
+
+I mock up in whatever tool fits the project, then build it myself, so nothing gets lost between the design and the live site.
 
 I run [HHHELP Studio](https://hhhelpstudio.com), building web for boutique hotels, travel and wellness brands. Most days that means a mockup in one window, code in the other, and my handsome black cat, Opi, walking across the keyboard.
 
-> 🟢 **Open to work:** remote design or front-end roles, part-time or full-time. Especially keen on Web3 and product teams. [Let's talk](mailto:hello@hhhelpstudio.com).
+> **Open to work:** remote design or front-end roles, part-time or full-time. Especially keen on Web3 and product teams. [Let's talk](mailto:hello@hhhelpstudio.com).
 
----
+| **30+** | **98+** | **< 2.5s** |
+|:---:|:---:|:---:|
+| projects shipped | web score | PageSpeed load |
 
-### 📊 By the numbers
-
-**30+** projects shipped &nbsp;·&nbsp; **98+** web score &nbsp;·&nbsp; **under 2.5s** PageSpeed load
-
-### 🛠️ What I work with
+### What I work with
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
@@ -27,21 +29,63 @@ I run [HHHELP Studio](https://hhhelpstudio.com), building web for boutique hotel
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
-Also comfortable in Elementor, Bricks, ACF, Wix/Velo, GoHighLevel, and the Gemini API.
+<details>
+<summary>Plus the rest of the toolbox</summary>
+<br>
 
----
+Elementor, Bricks, ACF, custom WordPress plugins, Wix/Velo, GoHighLevel, Stripe, Google Maps Platform, and the Gemini API.
 
-### 🔨 Things I've built
+</details>
 
-**[ppplaces](https://github.com/hhhelpstudio/ppplaces)**: a playful, mobile-first trip planner. Collect places, build a day, hit "optimize," and get a walkable route. Specced and built solo, with a cost-controlled Google Places proxy, per-IP rate limiting and Supabase Row Level Security.
+### Things I've built
 
-**[Website Score Tool](https://hhhelpstudio.com/website-score/)**: a free website audit that asks smart, industry-specific questions with Gemini, scores your site, and emails a full report. Built with a model fallback so it keeps working when the primary model doesn't.
+<sub>Click any project to expand.</sub>
 
-**Crypto signal bot** *(private repo)*: a Python bot that reads live Bybit market data, runs multiple strategies through a regime detector, logs every signal, and grades its own win rate against a baseline. Talks to me on Telegram. Happy to demo it in an interview.
+<details open>
+<summary><b>ppplaces</b>: a playful trip planner that turns saved places into a walkable day</summary>
+<br>
 
-**Membership funnels**: pricing architecture, conversion-led landing pages and multi-tier Stripe checkout flows in GoHighLevel.
+Collect places by mood, drop them onto a day, hit "optimize," and get a realistic route, then hand it off to Google or Apple Maps. Specced and built solo, PRD first.
 
-### 🌐 Client work (designed and built by me)
+- Server-side Google Places proxy with field masking and caching, so the secret key never reaches the browser
+- Per-IP rate limiting on Cloudflare KV to cap API costs
+- Supabase Postgres with Row Level Security and guest sessions
+
+**Stack:** vanilla JS, Cloudflare Pages Functions, Supabase, Google Maps Platform · [View repo →](https://github.com/hhhelpstudio/ppplaces)
+
+</details>
+
+<details>
+<summary><b>Website Score Tool</b>: a free AI website audit that emails you a full report</summary>
+<br>
+
+Pick your industry, answer a few questions (some generated on the fly by Gemini), and get a score, tailored recommendations and a report in your inbox. Built with a model fallback so it keeps working when the primary model doesn't, and logs every submission to Google Sheets.
+
+**Stack:** PHP, JavaScript, Gemini API · [Try it →](https://hhhelpstudio.com/website-score/)
+
+</details>
+
+<details>
+<summary><b>Crypto signal bot</b>: a Python bot that grades its own trades <i>(private)</i></summary>
+<br>
+
+Reads live Bybit market data, routes it through a regime detector into multiple strategies, logs every signal, and scores its win rate and expectancy against a verified baseline. Sends a weekly briefing on Telegram.
+
+**Stack:** Python, Bybit API, Telegram Bot API · Happy to demo it in an interview.
+
+</details>
+
+<details>
+<summary><b>Membership funnels</b>: pricing architecture and checkout flows that convert</summary>
+<br>
+
+Tiered membership structures, conversion-led landing pages with pricing toggles, and multi-tier Stripe checkout flows, built in GoHighLevel with custom code where the platform falls short.
+
+</details>
+
+<details>
+<summary><b>Client work</b>: 7 live sites, designed and built by me</summary>
+<br>
 
 | Project | What it is | Built in |
 |---|---|---|
@@ -55,16 +99,20 @@ Also comfortable in Elementor, Bricks, ACF, Wix/Velo, GoHighLevel, and the Gemin
 
 Full case studies at [hhhelpstudio.com](https://hhhelpstudio.com).
 
----
+</details>
 
-### 🌱 Currently
+### Currently
 
 - Learning **TypeScript**, **Next.js** and Web3 front-end tooling (wagmi, viem)
 - Building a Web3 landing page with wallet connect as my next public project
 
-### ☕ Off the clock
+<details>
+<summary>Off the clock</summary>
+<br>
 
-Charting markets I probably shouldn't be charting, playing old games on emulators, catching up on anime, and arranging my desk for good feng shui. Bali-based, cat-supervised.
+Charting markets I probably shouldn't be charting, playing old games on emulators, catching up on anime, and arranging my desk for good feng shui. Bali-based, Opi-supervised.
+
+</details>
 
 ---
 
