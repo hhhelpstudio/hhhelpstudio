@@ -20,4 +20,4 @@ I run [HHHELP Studio](https://hhhelpstudio.com), building web for boutique hospi
 
 Learning TypeScript, Next.js and Web3 front-end tooling, and open to design or front-end roles (remote, part-time or full-time).
 
-[Portfolio](https://hhhelpstudio.com) · [LinkedIn](https://www.linkedin.com/in/REPLACE-ME) · hhhelpstudio@gmail.com
+[Portfolio](https://hhhelpstudio.com) · [LinkedIn](https://www.linkedin.com/in/imanrafief) · hhhelpstudio@gmail.com
