@@ -64,8 +64,10 @@ Collect places by mood, drop them onto a day, hit "optimize," and get a realisti
 - Server-side Google Places proxy with field masking and caching, so the secret key never reaches the browser
 - Per-IP rate limiting on Cloudflare KV to cap API costs
 - Supabase Postgres with Row Level Security and guest sessions
+- Keyless demo mode: swappable map and storage adapters, so anyone can try it without an account
+- Arrival stamps, a hand-drawn mascot (Walkie), and a desktop two-pane layout
 
-**Stack:** vanilla JS, Cloudflare Pages Functions, Supabase, Google Maps Platform · [View repo →](https://github.com/hhhelpstudio/ppplaces)
+**Stack:** vanilla JS (typed with JSDoc + tsc), Cloudflare Pages Functions, Supabase, Google Maps / Leaflet · [Live demo →](https://ppplaces.pages.dev) · [View repo →](https://github.com/hhhelpstudio/ppplaces)
 
 </details>
 
