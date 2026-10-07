@@ -4,14 +4,14 @@
     text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 19px; font-weight: 500; fill: #8B949E; }
   </style>
   <defs>
-    <clipPath id="c1"><rect x="0" y="0" height="40" width="0">
-      <animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;620;620;0;0" keyTimes="0;0.1;0.27;0.32;1"/>
+    <clipPath id="c1"><rect x="0" y="0" height="40" width="620">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" values="620;620;0;0;620" keyTimes="0;0.27;0.32;0.94;1"/>
     </rect></clipPath>
     <clipPath id="c2"><rect x="0" y="0" height="40" width="0">
       <animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;0;620;620;0;0" keyTimes="0;0.333;0.433;0.6;0.65;1"/>
     </rect></clipPath>
     <clipPath id="c3"><rect x="0" y="0" height="40" width="0">
-      <animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;0;620;620;0" keyTimes="0;0.667;0.767;0.933;1"/>
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;0;620;620;0;0" keyTimes="0;0.667;0.767;0.88;0.93;1"/>
     </rect></clipPath>
   </defs>
   <text x="0" y="26" clip-path="url(#c1)">Designer &amp; front-end developer in Bali</text>
