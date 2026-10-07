@@ -1,8 +1,8 @@
 <h1>Hey, I'm Iman 👋</h1>
 
-**Designer and front-end developer in Bali.** I design websites in Figma, then build them myself, so nothing gets lost between the mockup and the live site.
+**Designer and front-end developer in Bali.** I mock up in whatever tool fits the project, then build it myself, so nothing gets lost between the design and the live site.
 
-I run [HHHELP Studio](https://hhhelpstudio.com), building web for boutique hotels, travel and wellness brands. Most days that means Figma in one window, code in the other, and a cat walking across the keyboard.
+I run [HHHELP Studio](https://hhhelpstudio.com), building web for boutique hotels, travel and wellness brands. Most days that means a mockup in one window, code in the other, and my handsome black cat, Opi, walking across the keyboard.
 
 > 🟢 **Open to work:** remote design or front-end roles, part-time or full-time. Especially keen on Web3 and product teams. [Let's talk](mailto:hello@hhhelpstudio.com).
 
@@ -15,6 +15,7 @@ I run [HHHELP Studio](https://hhhelpstudio.com), building web for boutique hotel
 ### 🛠️ What I work with
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
