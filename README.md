@@ -1,7 +1,7 @@
 <h1>Hey, I'm Iman 👋</h1>
 
 <a href="https://hhhelpstudio.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=8B949E&vCenter=true&width=620&lines=Designer+%26+front-end+developer+in+Bali;From+mockup+to+live+site%2C+no+handoff;Open+to+remote+design+%26+front-end+roles" alt="Designer and front-end developer in Bali. From mockup to live site, no handoff. Open to remote design and front-end roles." />
+  <img src="assets/tagline.svg" alt="Designer and front-end developer in Bali. From mockup to live site, no handoff. Open to remote design and front-end roles." />
 </a>
 
 I mock up in whatever tool fits the project, then build it myself, so nothing gets lost between the design and the live site.
